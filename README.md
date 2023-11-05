@@ -1,4 +1,4 @@
-# Fire-Tire
+# Car2DGame - FireTire
 
 THE GAME
 
